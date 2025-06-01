@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`d3e9457`](https://github.com/stdlib-js/stdlib/commit/d3e9457065368cd4f97c993ac300d408c7cde4d2) - **docs:** remove BSD-3-Clause from license field _(by Karan Anand)_
 -   [`3c5ee39`](https://github.com/stdlib-js/stdlib/commit/3c5ee3994b878caa46ad9d5692bb4ba44ab580d7) - **feat:** add `math/base/special/atan2f` [(#7081)](https://github.com/stdlib-js/stdlib/pull/7081) _(by Karan Anand, stdlib-bot)_
 
 </details>
