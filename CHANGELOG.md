@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-01)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`f63f8df`](https://github.com/stdlib-js/stdlib/commit/f63f8df9abf7a7ddf9de4e895a64e4699d2f378b) - **style:** remove header section comments from C files _(by Philipp Burckhardt)_
 -   [`d3e9457`](https://github.com/stdlib-js/stdlib/commit/d3e9457065368cd4f97c993ac300d408c7cde4d2) - **docs:** remove BSD-3-Clause from license field _(by Karan Anand)_
 -   [`3c5ee39`](https://github.com/stdlib-js/stdlib/commit/3c5ee3994b878caa46ad9d5692bb4ba44ab580d7) - **feat:** add `math/base/special/atan2f` [(#7081)](https://github.com/stdlib-js/stdlib/pull/7081) _(by Karan Anand, stdlib-bot)_
 
@@ -35,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
