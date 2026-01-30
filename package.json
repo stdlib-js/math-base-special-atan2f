@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-atan2f",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Compute the angle in the plane (in radians) between the positive x-axis and the ray from (0,0) to the point (x,y) as a single-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
@@ -44,15 +44,15 @@
     "@stdlib/constants-float32-pinf": "^0.2.2",
     "@stdlib/math-base-assert-is-infinitef": "^0.2.2",
     "@stdlib/math-base-assert-is-nanf": "^0.2.2",
-    "@stdlib/math-base-napi-binary": "^0.3.0",
+    "@stdlib/math-base-napi-binary": "^0.3.1",
     "@stdlib/math-base-special-atanf": "^0.1.0",
     "@stdlib/math-base-special-copysignf": "^0.2.2",
-    "@stdlib/number-float32-base-signbit": "^0.2.2",
+    "@stdlib/number-float32-base-signbit": "^0.3.0",
     "@stdlib/number-float64-base-to-float32": "^0.2.2",
-    "@stdlib/utils-library-manifest": "^0.2.2"
+    "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/constants-float32-eps": "^0.2.2",
     "@stdlib/constants-float32-ninf": "^0.2.2",
     "@stdlib/math-base-assert-is-negative-zerof": "^0.1.3",
