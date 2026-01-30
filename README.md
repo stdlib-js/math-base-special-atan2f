@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import atan2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atan2f@deno/mod.js';
+import atan2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atan2f@v0.1.0-deno/mod.js';
 ```
 
 #### atan2f( y, x )
@@ -85,7 +85,7 @@ v = atan2f( 3.0, NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import atan2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atan2f@deno/mod.js';
+import atan2f from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-atan2f@v0.1.0-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
