@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-11)
+## Unreleased (2026-09-04)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2d9f528`](https://github.com/stdlib-js/stdlib/commit/2d9f52814b7ed08bda0cbb89cb485e6ed2d78865) - **docs:** add equations [(#14687)](https://github.com/stdlib-js/stdlib/pull/14687) _(by Karan Anand)_
 -   [`e89acbe`](https://github.com/stdlib-js/stdlib/commit/e89acbe4ef9033680cc565872453f7740e3828a4) - **test:** migrate `math/base/special/atan2f` to ULP-based assertions [(#14178)](https://github.com/stdlib-js/stdlib/pull/14178) _(by Philipp Burckhardt)_
 -   [`9229dd7`](https://github.com/stdlib-js/stdlib/commit/9229dd78fa82c5f863dbc51a9588314d53a97c44) - **bench:** refactor to use string interpolation in `math/base/special` [(#11386)](https://github.com/stdlib-js/stdlib/pull/11386) _(by Karan Anand)_
 
